@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/engine-loop-1-normalized.ogg-74fc9b967a84550488294ecbc0983b4f.oggstr"
+
+[deps]
+
+source_file="res://sfx/engine-loop/engine-loop-1-normalized.ogg"
+dest_files=[ "res://.import/engine-loop-1-normalized.ogg-74fc9b967a84550488294ecbc0983b4f.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0
